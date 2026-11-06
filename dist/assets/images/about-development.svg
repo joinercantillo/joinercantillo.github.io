@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 630" role="img" aria-labelledby="title desc">
+  <title id="title">Espacio de trabajo de desarrollo</title>
+  <desc id="desc">Ilustración abstracta de un editor de código, una ventana de terminal y una planta.</desc>
+  <rect width="720" height="630" fill="#111827"/>
+  <path d="M0 465 720 323v307H0z" fill="#0d1525"/>
+  <path d="M66 70h510v334H66z" fill="#172033" stroke="#334155" stroke-width="2"/>
+  <path d="M66 70h510v38H66z" fill="#1e293b"/>
+  <circle cx="91" cy="89" r="5" fill="#fb7185"/><circle cx="110" cy="89" r="5" fill="#fbbf24"/><circle cx="129" cy="89" r="5" fill="#34d399"/>
+  <path d="M66 108h72v296H66z" fill="#131d30"/>
+  <path d="M84 135h31m-31 24h41m-41 24h29m-29 24h39m-39 24h26m-26 24h35m-35 24h27" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+  <path d="M160 140h65m14 0h54m-133 24h34m16 0h82m-132 24h55m16 0h34m-105 24h79m-79 24h43m15 0h59m-117 24h26m14 0h66m-106 24h47m16 0h57m-120 24h36m14 0h62" stroke="#60a5fa" stroke-width="5" stroke-linecap="round"/>
+  <path d="M232 140h28m-87 48h25m-15 48h20m-61 48h29" stroke="#22d3ee" stroke-width="5" stroke-linecap="round"/>
+  <path d="M442 432h176v113H442z" fill="#172033" stroke="#334155" stroke-width="2"/>
+  <path d="M461 457h20m11 0h52m-83 20h60m-60 20h33" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M152 479h227v18H152z" fill="#253148"/><path d="M182 497h166l-24 13H207z" fill="#334155"/>
+  <path d="M97 443c0-45 33-74 74-74s75 29 75 74v31H97z" fill="#1e293b"/>
+  <path d="M111 453c19-20 41-29 60-29s43 9 61 29v21H111z" fill="#3b82f6" opacity=".8"/>
+  <path d="M540 420c0-26 18-43 38-43 21 0 38 17 38 43v18h-76z" fill="#253148"/>
+  <path d="M550 410c-4-29-24-48-42-43 1 20 17 37 42 43Zm15-5c0-29 14-50 34-52 4 22-10 42-34 52Z" fill="#22d3ee"/>
+  <path d="M577 397v38" stroke="#22d3ee" stroke-width="3"/>
+  <path d="M501 560h204" stroke="#334155" stroke-width="2"/>
+  <text x="66" y="590" fill="#64748b" font-family="monospace" font-size="12" letter-spacing="3">IDEAS INTO INTERFACES</text>
+</svg>

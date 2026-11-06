@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustración de proyecto web en desarrollo</title>
+  <desc id="desc">Composición abstracta de ventanas de código e interfaz, no es una captura de un producto publicado.</desc>
+  <rect width="900" height="600" fill="#101a2d"/>
+  <circle cx="720" cy="110" r="200" fill="#1d3555" opacity=".28"/>
+  <circle cx="150" cy="520" r="220" fill="#123545" opacity=".24"/>
+  <path d="M110 97h622v401H110z" fill="#0b1120" stroke="#3b4b64" stroke-width="2"/>
+  <path d="M110 97h622v43H110z" fill="#1a263a"/>
+  <circle cx="136" cy="118" r="5" fill="#fb7185"/><circle cx="155" cy="118" r="5" fill="#fbbf24"/><circle cx="174" cy="118" r="5" fill="#34d399"/>
+  <rect x="224" y="108" width="309" height="20" rx="4" fill="#111827"/>
+  <path d="M110 140h152v358H110z" fill="#121d30"/>
+  <path d="M132 167h71m-71 22h91m-91 22h60m-60 22h82m-82 22h65" stroke="#41516a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M132 291h38m-38 22h77m-77 22h53m-53 22h70m-70 22h47" stroke="#60a5fa" stroke-width="4" stroke-linecap="round"/>
+  <path d="M291 177h146v12H291zm0 26h233v6H291zm0 19h191v6H291zm0 19h219v6H291z" fill="#50627d"/>
+  <path d="M291 269h260v122H291z" fill="#17263d" stroke="#31435d"/>
+  <path d="M313 291h80m12 0h42m-134 19h185m-185 19h123m-123 19h167m-167 19h97" stroke="#60a5fa" stroke-width="5" stroke-linecap="round"/>
+  <path d="M572 177h130v93H572z" fill="#172033" stroke="#334155"/>
+  <circle cx="636" cy="213" r="20" fill="#22d3ee" opacity=".8"/><path d="M604 251h64" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M574 295h128v96H574z" fill="#172033" stroke="#334155"/>
+  <path d="M594 316h88m-88 17h63m-63 17h75m-75 17h43" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M275 443h428" stroke="#26364e" stroke-width="1"/>
+  <text x="295" y="470" fill="#22d3ee" font-family="monospace" font-size="12" letter-spacing="3">BUILDING / LEARNING / ITERATING</text>
+</svg>
